@@ -8,6 +8,9 @@ build/*
 *.perspective
 *.perspectivev3
 *.mode2v3
+*.xcuserstate
+xcuserdata/
+xcuserdata/*
 
 # Generated files
 *.o
