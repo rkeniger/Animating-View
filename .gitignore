@@ -1,0 +1,32 @@
+# xcode noise
+*.swp
+*~.nib
+build/
+build/*
+*.mode1v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode2v3
+
+# Generated files
+*.o
+*.pyc
+*.hi
+
+#Python modules
+MANIFEST
+dist/
+build/
+
+# Backup files
+*~.nib
+\#*#
+.#*
+
+# SVN directories
+.svn
+
+# osx noise
+.DS_Store
+profile
